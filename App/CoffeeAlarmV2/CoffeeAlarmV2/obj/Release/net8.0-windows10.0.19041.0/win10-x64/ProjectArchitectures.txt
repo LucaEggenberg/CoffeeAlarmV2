@@ -1,0 +1,1 @@
+C:\dev\CoffeeAlarmV2\App\CoffeeAlarmV2\CoffeeAlarmV2\CoffeeAlarmV2.csproj;x64

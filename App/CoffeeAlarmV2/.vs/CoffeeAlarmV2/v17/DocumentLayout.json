@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\coffeealarmv2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\coffeealarmv2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\mainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\mainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\coffeealarmv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\coffeealarmv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\service\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\service\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|c:\\dev\\coffeealarmv2\\app\\coffeealarmv2\\coffeealarmv2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10F693D4-07BA-4ECE-BFD3-2A974CC33B63}|CoffeeAlarmV2\\CoffeeAlarmV2.csproj|solutionrelative:coffeealarmv2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeAlarmV2",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "RelativeToolTip": "CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T14:23:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "CoffeeAlarmV2\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-02T14:17:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "CoffeeAlarmV2\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-02T14:17:58.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeService.cs",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Service\\CoffeeService.cs",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\Service\\CoffeeService.cs",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Service\\CoffeeService.cs",
+              "RelativeToolTip": "CoffeeAlarmV2\\Service\\CoffeeService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:22:08.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Model\\Constants.cs",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\Model\\Constants.cs",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Model\\Constants.cs",
+              "RelativeToolTip": "CoffeeAlarmV2\\Model\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:19:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "CoffeeAlarmV2\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-02T12:59:38.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoffeeAlarmV2",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "RelativeToolTip": "CoffeeAlarmV2\\CoffeeAlarmV2.csproj",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T12:38:08.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageVM.cs",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\MainPageVM.cs",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\MainPageVM.cs",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\MainPageVM.cs",
+              "RelativeToolTip": "CoffeeAlarmV2\\MainPageVM.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAtwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:22:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CoffeeAlarmV2\\MainPage.xaml",
+              "ToolTip": "C:\\dev\\CoffeeAlarmV2\\App\\CoffeeAlarmV2\\CoffeeAlarmV2\\MainPage.xaml",
+              "RelativeToolTip": "CoffeeAlarmV2\\MainPage.xaml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-02T12:18:35.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
